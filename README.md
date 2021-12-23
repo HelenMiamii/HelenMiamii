@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HelenMiamii
 - 👀 I’m interested in outdoor adventures, crypto, rock-climbing, and animals.
 - 🌱 I’m currently learning react and solidity.
-- 💞️ I’m looking to collaborate on projects with fun people and innovative ideas.
+- 💞️ I’m looking to collaborate on projects with fun people and bring digital life to innovative ideas.
 - 📫 How to reach me at helen@abrabinah.com
 
 <!---
